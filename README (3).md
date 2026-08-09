@@ -9,17 +9,20 @@ Two Tampermonkey userscripts that work together to automate route-status trackin
 **Routing portal + live automation panel**
 The floating panel in the top-right tracks route processing in real time and exports a status grid straight to CSV.
 
-![Routing engine automation panel](./screenshots/routing-engine-panel.png)
+<img width="791" height="374" alt="image" src="https://github.com/user-attachments/assets/ae596152-5fdb-4e5c-86ce-fd1982326593" />
+
 
 **Excel Online companion — exception grid + CSV injector**
 Paste in a truck/team assignment list, override individual stop codes by hand when needed, then stream the formatted result straight to the clipboard for pasting into the spreadsheet.
 
-![Excel matrix companion panel](./screenshots/excel-matrix-companion-panel.png)
+<img width="794" height="460" alt="image" src="https://github.com/user-attachments/assets/e37b93f1-588c-4d0c-a530-5b2f25043e1d" />
+
 
 **Installed as standard Tampermonkey userscripts**
 No browser extension packaging required — just two scripts running through Tampermonkey.
 
-![Tampermonkey installed scripts](./screenshots/tampermonkey-installed-scripts.png)
+<img width="747" height="159" alt="image" src="https://github.com/user-attachments/assets/5a8b4fcd-bd9b-492d-b11d-874e62c5fc1a" />
+
 
 ## What's in here
 
